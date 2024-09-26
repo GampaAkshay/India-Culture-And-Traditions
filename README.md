@@ -18,7 +18,7 @@ Bootstrap
 India Map (Library)
 Installation:
 
-Download: Download the project files from @ https://github.com/saiganesh1798/INDIAN-CULTURE-AND-HERITAGE
+Download: Download the project files from @ https://github.com/GampaAkshay/India-Culture-And-Traditions
 Extract: Extract the downloaded ZIP file to your desired location.
 Open: Open the index.html file in a web browser to view the project.
 Usage:
